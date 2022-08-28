@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1, 1
 https://ranapk.ml/IndVSpak/@ranapk73.m3u8
+#EXTINF:-1, 1
+http://bciptv.net:8082/ptv/preview.mp4?token=3fb1dbd32235c27ef0ccc1b8e2d3ca998b5eca9f-b7afd1ccc72336d3720b563e177ffcb9-1661710634-1661699834
+#EXTINF:-1, 1
+http://iptv.mcnbd.com:8080/PTVSports/tracks-v1a1/mono.m3u8?token=9eec117d0c4e0d5f71e73159ef1b975ad5467e6c-da82df09e71ab43c8180fedbe28b52bf-1661714338-1661703538
+#EXTINF:-1, 1
+http://bciptv.net:8082/GTV/preview.mp4?token=3f17904262dfe9a69a18ea589e33e9c2e44b9642-9ea63f815846953a1ae4946afa177ba7-1661710599-1661699799
+#EXTINF:-1, 1
+http://iptv.mcnbd.com:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=97df241a21e6112291c2abe0a864c13d2b1fe38a-f7749771df199ff295f7a90c6a6552bb-1661713325-1661702525
+#EXTINF:-1, 1
+https://livestream-2.socialstreaming.tv/live/630b68fbb9f740001de35923/630b68fbb9f740001de35923.m3u8
